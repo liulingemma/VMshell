@@ -1,2 +1,2 @@
 # VMshell
-the shell script to configure VM
+the shell script to configure VM11
