@@ -1,2 +1,3 @@
-索引突然宕机异常排查
-1. 查看nohup.out的日志， 观察是否有报错异常日志
+1.索引突然宕机异常排查
+(1)查看nohup.out的日志， 观察是否有报错异常日志， 位置：/opt/esearch/ecpmdspindex_pt/searcher
+
